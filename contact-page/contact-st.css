@@ -6,6 +6,7 @@
 body{
     color: var(--wight-color);
     font-family: var(--font);
+    background-color: var(--black-bg);
 }
 :root{
     --wight-color:#fff;
@@ -133,7 +134,7 @@ a{
     width: 100%;
 }
 
-.html-button{
+.contact-btn{
     background-color: var(--black-bg);
     border: none;
     margin-top: 2px solid red;
@@ -394,7 +395,7 @@ footer span{
 
     footer{
         font-size: .9rem;
-        height: 2.4rem;
+        height: 1rem;
     }
     footer span{
         color: #768390;
@@ -472,7 +473,7 @@ footer span{
 
     footer{
         font-size: .9rem;
-        height: 2.4rem;
+        height: 2rem;
     }
     footer span{
         color: #768390;

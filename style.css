@@ -6,6 +6,7 @@
 body{
     color: var(--wight-color);
     font-family: var(--font);
+    background-color: var(--black-bg);
 }
 :root{
     --wight-color:#fff;
